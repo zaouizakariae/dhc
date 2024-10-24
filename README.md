@@ -66,6 +66,14 @@ now we restart and check if its working
 
 ![image](https://github.com/user-attachments/assets/2eb5485e-7694-4a4b-a77c-161898b5f1f1)
 
+![image](https://github.com/user-attachments/assets/5710a84f-129a-4117-b7fc-bf23eb71ccdd)
+
+![image](https://github.com/user-attachments/assets/5aeba360-93ea-466b-997b-05e6273594c9)
+
+![image](https://github.com/user-attachments/assets/fefa1965-01b7-445b-be29-1aa96b17b789)
+
+
+
 
 
 ------------ SWITCHES
