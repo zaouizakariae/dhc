@@ -56,7 +56,28 @@ now we restart and check if its working
 ![image](https://github.com/user-attachments/assets/87350512-3ada-4ad0-abd7-3a7e5483a879)
 
 
+---------
 
+![image](https://github.com/user-attachments/assets/6a56eb73-4d8c-4ab4-9dc8-8e8286299309)
+
+![image](https://github.com/user-attachments/assets/7ccb38e6-0ede-4a7a-ad81-d99c75f73e25)
+
+![image](https://github.com/user-attachments/assets/2d13f91b-1005-433a-9480-228f45010c87)
+
+![image](https://github.com/user-attachments/assets/2eb5485e-7694-4a4b-a77c-161898b5f1f1)
+
+
+
+------------ SWITCHES
+
+![image](https://github.com/user-attachments/assets/73686735-0df2-4a24-bbca-8d298f130d6c)
+
+
+# DNS
+
+![image](https://github.com/user-attachments/assets/3cc5e820-6c73-4746-a114-b1f7212c6371)
+
+![image](https://github.com/user-attachments/assets/baa9f51b-0c51-4350-9ae5-f11ca776410d)
 
 
 
